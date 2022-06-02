@@ -1,1 +1,1 @@
-This repository is my physics labs in the 5th semester of MIPT.
+This repository is my physics lab in the 5th semester of MIPT.
